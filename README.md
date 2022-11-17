@@ -1,4 +1,4 @@
-# discreet_explorers
+# cautious_explorers
 This repository contians code, data and front-end files for the main figures in the manuscript "Discreet explorers generate more future academic impact".
 
 .
